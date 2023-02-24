@@ -11,4 +11,4 @@ on o.staff_id = s.staff_id
 
 
 
-select * from sales.staffs
+--select * from sales.staffs
